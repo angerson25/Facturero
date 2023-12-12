@@ -1,0 +1,14 @@
+
+Gracias por su compra
+Nombre cliente: ['corzo']
+Codigo cliente: 0001
+Numero de factura: 7644195
+
+Compra: 
+Producto        Cantidad   Precio Unit.    Subtotal  
+--------------------------------------------------
+Cafe            3          $1000           $3000     
+Empanada        2          $2500           $5000     
+--------------------------------------------------
+Subtotal:                                $8000     
+Total con IVA:                           $1520.0   

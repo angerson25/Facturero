@@ -1,0 +1,9 @@
+1:Cafe,1000
+2:Galleta,1200
+3:Empanada,2500
+4:Gaseosa,2000
+5:Papas,3000
+6:Jugo,2200
+7:Chocorramo,2400
+8:BomBomBum,600
+9:Platanitos,1800
